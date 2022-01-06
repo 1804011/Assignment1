@@ -154,6 +154,34 @@ body {
 	margin: 18px 0;
 	padding-right: 100px;
 }
+#application .container {
+	margin: 75px 10%;
+}
+#application h1 {
+	text-align: center;
+	font-size: 48px;
+}
+#application .container .left {
+	width: 40%;
+}
+#application .container .right {
+	width: 60%;
+}
+#application .container .left img {
+	width: 100%;
+}
+#application .container .right {
+	padding: 32px;
+	padding-top: 0;
+}
+#application .container .right h1 {
+	font-size: 36px;
+	text-align: left;
+}
+#application .container .right p {
+	margin: 12px 0;
+}
+
 footer {
 	text-align: center;
 	background-color: rgba(26, 6, 9, 0.8);
